@@ -11,15 +11,11 @@ The project achieved 2nd Place in the final project competition.
 
 
 ###### **Dashboard Preview**
-![Dashboard Screenshot 1](Screenshot 2026-08-30 182655.png)
-
-![Dashboard Screenshot 2](Screenshot 2026-08-30 183119.png)
-
-![Dashboard Screenshot 3](Screenshot 2026-08-30 200953.png)
-
-![Dashboard Screenshot 4](Screenshot 2026-08-30 201120.png)
-
-![Dashboard Screenshot 5](Screenshot 2026-08-30 201205.png)
+<img width="1487" height="850" alt="Screenshot 2026-08-30 182655" src="https://github.com/user-attachments/assets/6aeb580d-4d73-4929-8c92-8fa2f2da5ac3" />
+<img width="1482" height="850" alt="Screenshot 2026-08-30 183119" src="https://github.com/user-attachments/assets/30aba31d-c3ca-4fed-ba8a-38b27b04f085" />
+<img width="1486" height="850" alt="Screenshot 2026-08-30 200953" src="https://github.com/user-attachments/assets/0ad26327-b274-426a-85ee-8eef36281dc4" />
+<img width="1483" height="848" alt="Screenshot 2026-08-30 201120" src="https://github.com/user-attachments/assets/4854ef0b-b032-4ef8-91b3-23342de3f027" />
+<img width="1483" height="850" alt="Screenshot 2026-08-30 201205" src="https://github.com/user-attachments/assets/99fea0b4-fc05-48d7-9975-509cca55ca7e" />
 
 
 
