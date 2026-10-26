@@ -11,11 +11,11 @@ The project achieved 2nd Place in the final project competition.
 
 
 ###### **Dashboard Preview**
-Screenshot 2026-08-30 182655.png
-Screenshot 2026-08-30 183119.png
-Screenshot 2026-08-30 200953.png
-Screenshot 2026-08-30 201120.png
-Screenshot 2026-08-30 201205.png
+![Dashboard Screenshot 1](Screenshot 2026-08-30 182655.png)
+![Dashboard Screenshot 2](Screenshot 2026-08-30 183119.png)
+![Dashboard Screenshot 3](Screenshot 2026-08-30 200953.png)
+![Dashboard Screenshot 4](Screenshot 2026-08-30 201120.png)
+![Dashboard Screenshot 5](Screenshot 2026-08-30 201205.png)
 
 
 
